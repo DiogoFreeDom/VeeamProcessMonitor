@@ -1,0 +1,16 @@
+C:\Users\FreeDom\source\repos\SharpProcesses\bin\Debug\net5.0\SharpProcesses.exe
+C:\Users\FreeDom\source\repos\SharpProcesses\bin\Debug\net5.0\SharpProcesses.deps.json
+C:\Users\FreeDom\source\repos\SharpProcesses\bin\Debug\net5.0\SharpProcesses.runtimeconfig.json
+C:\Users\FreeDom\source\repos\SharpProcesses\bin\Debug\net5.0\SharpProcesses.runtimeconfig.dev.json
+C:\Users\FreeDom\source\repos\SharpProcesses\bin\Debug\net5.0\SharpProcesses.dll
+C:\Users\FreeDom\source\repos\SharpProcesses\bin\Debug\net5.0\ref\SharpProcesses.dll
+C:\Users\FreeDom\source\repos\SharpProcesses\bin\Debug\net5.0\SharpProcesses.pdb
+C:\Users\FreeDom\source\repos\SharpProcesses\obj\Debug\net5.0\SharpProcesses.csproj.AssemblyReference.cache
+C:\Users\FreeDom\source\repos\SharpProcesses\obj\Debug\net5.0\SharpProcesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FreeDom\source\repos\SharpProcesses\obj\Debug\net5.0\SharpProcesses.AssemblyInfoInputs.cache
+C:\Users\FreeDom\source\repos\SharpProcesses\obj\Debug\net5.0\SharpProcesses.AssemblyInfo.cs
+C:\Users\FreeDom\source\repos\SharpProcesses\obj\Debug\net5.0\SharpProcesses.csproj.CoreCompileInputs.cache
+C:\Users\FreeDom\source\repos\SharpProcesses\obj\Debug\net5.0\SharpProcesses.dll
+C:\Users\FreeDom\source\repos\SharpProcesses\obj\Debug\net5.0\ref\SharpProcesses.dll
+C:\Users\FreeDom\source\repos\SharpProcesses\obj\Debug\net5.0\SharpProcesses.pdb
+C:\Users\FreeDom\source\repos\SharpProcesses\obj\Debug\net5.0\SharpProcesses.genruntimeconfig.cache
